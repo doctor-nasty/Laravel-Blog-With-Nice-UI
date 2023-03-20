@@ -12,7 +12,7 @@
                     <h3 class="title"><a href="{{ route('pages.blog', $post->slug) }}">{{ ucfirst($post->title) }}</a></h3>
                     <div class="author">
                         <div class="author-thumb">
-                            <img height="80" width="80" src="{{ asset('assets/media/blog/author-1.png') }}" alt="Blog Author">
+                            <img height="80" width="80" src="{{ asset('assets/media/blog/'.$post->user->avatar) }}" alt="{{ $post->user->name }}">
                         </div>
                         <div class="info">
                             <h6 class="author-name">{{ $post->user->name }}</h6>
