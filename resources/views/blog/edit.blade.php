@@ -4,7 +4,7 @@
 
 @section("content")
 @push('head')
-<script src="{{ asset('node_modules/tinymce/tinymce.js') }}"></script>
+<script src="{{ asset('tinymce/tinymce.js') }}"></script>
 <script>
     tinymce.init({
         selector: 'textarea#body',
