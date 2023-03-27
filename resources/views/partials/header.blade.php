@@ -23,9 +23,10 @@
                                         <button class="mobile-menu-close" data-bs-dismiss="offcanvas"><i class="fas fa-times"></i></button>
                                     </div>
                                 </div>
-                                {{-- <ul class="mainmenu">
-                                <li> <a href="/">Home</a></li>
-                                </ul> --}}
+                                <ul class="mainmenu">
+                                    <li> <a href="/">Home</a></li>
+                                    <li> <a href="/about">About</a></li>
+                                </ul>
                             </nav>
                             <!-- End Mainmanu Nav -->
                         </div>
