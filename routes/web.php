@@ -21,6 +21,7 @@ Route::post('/login', [\App\Http\Controllers\LoginController::class, 'login'])->
 Route::get('logout', [\App\Http\Controllers\LoginController::class, 'logout']);
 
 Route::get('/', [\App\Http\Controllers\BlogPostController::class, 'index'])->name('pages.blog.index');
+Route::get('/about', [\App\Http\Controllers\BlogPostController::class, 'about'])->name('pages.about');
 
 Route::get('/categories/{category:name}', [\App\Http\Controllers\CategoryController::class, 'posts']);
 Route::get('/search/', 'App\Http\Controllers\BlogPostController@search')->name('search');

@@ -196,4 +196,10 @@ class BlogPostController extends Controller
         return view('pages.search', compact('posts'));
     }
 
+    public function about()
+    {
+
+        return view('pages.about');
+    }
+
 }

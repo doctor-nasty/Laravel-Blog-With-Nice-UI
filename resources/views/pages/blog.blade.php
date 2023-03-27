@@ -1,6 +1,6 @@
-@extends('layouts.master', ['title' => 'FiscalBulletin'])
+@extends('layouts.master', ['title' => 'FiscalBulletin - Financial Tips and News'])
 
-@section('meta_keywords','Financial Tips')
+@section('meta_keywords','Financial Tips And News')
 @section('meta_description', 'fiscalbulletin.com')
 
 
