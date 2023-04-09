@@ -38,7 +38,7 @@
     <section class="section section-padding">
         <div class="container">
             <div class="row">
-                <div class="col-xl-5 col-lg-12 offset-xl-1">
+                <div class="col-xl-5 col-lg-6 offset-xl-1">
                     <div class="contact-info mb--30">
                         <h4 class="title">Email</h4>
                         <p>Our support team will get back to you as soon as possible.</p>
