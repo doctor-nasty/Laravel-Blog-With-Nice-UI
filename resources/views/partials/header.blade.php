@@ -26,6 +26,7 @@
                                 <ul class="mainmenu">
                                     <li> <a href="/">Home</a></li>
                                     <li> <a href="/about">About</a></li>
+                                    <li> <a href="/contact">Contact</a></li>
                                 </ul>
                             </nav>
                             <!-- End Mainmanu Nav -->
@@ -46,7 +47,7 @@
                                         <span></span>
                                     </button>
                                 </li>
-                                {{-- <li class="my_switcher d-block d-lg-none">
+                                <li class="my_switcher d-block d-lg-none">
                                     <ul>
                                         <li title="Light Mode">
                                             <a href="javascript:void(0)" class="setColor light" data-theme="light">
@@ -59,7 +60,7 @@
                                             </a>
                                         </li>
                                     </ul>
-                                </li> --}}
+                                </li>
                             </ul>
                         </div>
                     </div>

@@ -86,14 +86,16 @@
 
 
                         </div>
-                        {{-- <div class="col-md-6">
+                        <div class="col-md-6">
                             <div class="footer-bottom-link">
                                 <ul class="list-unstyled">
                                     <li><a href="/privacypolicy">Privacy Policy</a></li>
-                                    <li><a href="/tos">Terms of Service</a></li>
+                                    <li><a href="/termsofservice">Terms of Service</a></li>
+                                    <li><a href="/disclaimer">Disclaimer</a></li>
+                                    <li><a href="/cookiepolicy">Cookie Policy</a></li>
                                 </ul>
                             </div>
-                        </div> --}}
+                        </div>
                     </div>
                 </div>
             </div>
