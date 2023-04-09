@@ -57,7 +57,7 @@
 
 </head>
 
-<body class="sticky-header main-body active-dark-mode">
+<body class="sticky-header main-body">
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PSH4SN2"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -73,7 +73,20 @@
     <!-- Preloader Start Here -->
     <div id="preloader"></div>
     <!-- Preloader End Here -->
-
+    <div class="my_switcher d-none d-lg-block">
+        <ul>
+            <li title="Light Mode">
+                <a href="javascript:void(0)" class="setColor light" data-theme="light">
+                    <i class="fal fa-lightbulb-on"></i>
+                </a>
+            </li>
+            <li title="Dark Mode">
+                <a href="javascript:void(0)" class="setColor dark" data-theme="dark">
+                    <i class="fas fa-moon"></i>
+                </a>
+            </li>
+        </ul>
+    </div>
     <div id="main-wrapper" class="main-wrapper">
 
         <!--=====================================-->

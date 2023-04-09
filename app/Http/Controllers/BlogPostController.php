@@ -202,4 +202,34 @@ class BlogPostController extends Controller
         return view('pages.about');
     }
 
+    public function contact()
+    {
+
+        return view('pages.contact');
+    }
+
+    public function disclaimer()
+    {
+
+        return view('pages.disclaimer');
+    }
+
+    public function cookiepolicy()
+    {
+
+        return view('pages.cookiepolicy');
+    }
+
+    public function termsofservice()
+    {
+
+        return view('pages.termsofservice');
+    }
+
+    public function privacypolicy()
+    {
+
+        return view('pages.privacypolicy');
+    }
+
 }
