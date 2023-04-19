@@ -81,7 +81,7 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="footer-copyright">
-                                <span class="copyright-text">© 2023. Designed and Created By <a href="https://offthem.com" itemscope itemtype="https://schema.org/Organization" itemprop="name">OFFTHEM</a>.</span>
+                                <span class="copyright-text">© 2023. Designed and Created By <a href="https://offthem.com" itemscope itemtype="https://schema.org/Organization" itemprop="name">OFFTHEM</a>, <a href="https://offthem.com/">Web & Software Development Company</a>.</span>
                             </div>
 
 
