@@ -12,8 +12,7 @@
     <!-- End Google Tag Manager -->
 
 
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6234311818661757"
-    crossorigin="anonymous"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5545822766526186" crossorigin="anonymous"></script>
 
     <!-- Meta Data -->
     <meta charset="UTF-8">
